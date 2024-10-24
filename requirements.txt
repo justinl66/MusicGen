@@ -1,0 +1,11 @@
+django
+djangorestframework
+requests
+json
+os
+openai
+base64
+
+webpack webpack-cli --save-dev
+@babel/core babel-loader @bable/preset-env @bable/preset-react --save-dev
+
